@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SD2_CW_complete1:jar4">
+    <output-path>$PROJECT_DIR$/out/artifacts/SD2_CW_complete1_jar4</output-path>
+    <root id="archive" name="SD2_CW_complete1.jar">
+      <element id="module-output" name="SD2_CW_complete1" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/groovy-all-2.4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
